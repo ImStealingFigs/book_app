@@ -1,1 +1,4 @@
-# book_app
+# BooksApp
+My First Go App
+
+Testing slack notifcations
