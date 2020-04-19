@@ -1,4 +1,4 @@
 # BooksApp
-My First Go App
+Book Database Go App
 
-Testing slack notifcations
+Slack Notifcations Test
